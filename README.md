@@ -1,2 +1,3 @@
 # hello-world
-restaring Git
+restarting Git
+an exercise to learn Git
